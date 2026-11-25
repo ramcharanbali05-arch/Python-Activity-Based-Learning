@@ -1,9 +1,9 @@
 # Python-Activity-Based-Learning
 
-**Name:** YOUR NAME  
-**Roll Number:** YOUR ROLL NUMBER  
-**Branch:** YOUR BRANCH  
-**Section:** YOUR SECTION  
+**Name:** BALI RAM CHARAN TEJA  
+**Roll Number:** 26000435  
+**Branch:** CSE  
+**Section:** NIAT Section-1  
 
 ## Selected Case Studies
 
